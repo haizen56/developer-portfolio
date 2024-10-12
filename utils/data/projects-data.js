@@ -12,7 +12,7 @@ export const projectsData = [
         role: 'Backend Developer',
         code: '',
         demo: '',
-        image: crefin,
+        image: '',
     },
     {
         id: 2,
@@ -22,7 +22,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
-        image: travel,
+        image: '',
     },
     {
         id: 3,
@@ -32,7 +32,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: '',
-        image: realEstate,
+        image: '',
     },
     {
         id: 4,
@@ -41,7 +41,7 @@ export const projectsData = [
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
         demo: '',
-        image: ayla,
+        image: '',
         role: 'Full Stack Developer',
     }
 ];
