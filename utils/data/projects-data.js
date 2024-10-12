@@ -13,7 +13,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
+        name: 'AI-Powered Financial App',
         description: "Developed an AI-powered financial application that streamlines financial data analysis using OpenAI. I created the backend API with Express and TypeScript, incorporating authentication using AWS SES, Google, and Facebook. The app features an AI assistant trained on custom financial datasets using OpenAI, along with voice-to-text conversion powered by AWS Transcribe. Financial data is fetched from Google Sheets, automatically generating PDF reports, which are sent to users via AWS SES.",
         tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
         role: 'Backend Developer',
